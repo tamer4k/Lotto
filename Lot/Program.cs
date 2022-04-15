@@ -16,7 +16,7 @@ namespace Lot
             }
             Console.WriteLine("\n");
             //foreach (var item in t2)
-            //{
+            //{ 
             //    Console.Write(item + " - ");
             //}
             //Console.WriteLine("\n");
